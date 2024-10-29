@@ -1,3 +1,1 @@
-Is this the real life? Is this just fantasy?
-
-We've reached Github again, but this time from Ubuntu!
+Este archivo no esta en un gitignore por lo que este cambio no sera ignorado
